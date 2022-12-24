@@ -1,2 +1,2 @@
-# project_1_yandex_music
-Проект "Яндекс Музыка". Курс взят с Яндекс Практикум
+# project_2_investigation_of_the_reliability_of_borrowers
+Проект "Исследование надёжности заёмщиков". Курс взят с Яндекс Практикум
