@@ -120,7 +120,7 @@
 
 - Количество объектов в выборке.
 
-![sMAPE.jpg](https://pictures.s3.yandex.net/resources/smape_1576238825.jpg)
+![sum.jpg](https://pictures.s3.yandex.net/resources/I_1576238817.jpg)
 
 - Суммирование по всем объектам выборки (i меняется от 1 до N).
 
