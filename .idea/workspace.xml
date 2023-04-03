@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fde87169-2587-492f-ab6b-69bc7820d49d" name="Changes" comment="Оптимизация">
+      <change afterPath="$PROJECT_DIR$/errors/project_10_v1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors/project_10_v1_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors/project_10_v1_error.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors/project_10_v2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_10_v2_accept.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yandex_practicum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yandex_practicum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_10_v1.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="project_9_determining_the_cost_of_cars" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NQSRzLKM5y0D8lCqynycFMk3nN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/yandex_practicum&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\yandex_practicum" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\yandex_practicum\errors" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fde87169-2587-492f-ab6b-69bc7820d49d" name="Changes" comment="" />
+      <created>1679594809162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679594809162</updated>
+      <workItem from="1679594811501" duration="2805000" />
+      <workItem from="1679831636394" duration="1280000" />
+      <workItem from="1679846683725" duration="907000" />
+      <workItem from="1680121840703" duration="441000" />
+      <workItem from="1680153411467" duration="402000" />
+      <workItem from="1680199474477" duration="181000" />
+      <workItem from="1680283170750" duration="6456000" />
+      <workItem from="1680538514879" duration="105000" />
+    </task>
+    <task id="LOCAL-00001" summary="Добавление несколько файлов">
+      <created>1680122057410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680122057410</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добавление несколько файлов">
+      <created>1680122124480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680122124480</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавление основных файлов">
+      <created>1680199500870</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680199500870</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Добавление еще основных файлов">
+      <created>1680199530447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680199530447</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Оптимизация">
+      <created>1680199649912</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680199649912</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавление основные файлы" />
+    <MESSAGE value="Добавление основных файлов" />
+    <MESSAGE value="Добавление еще основных файлов" />
+    <MESSAGE value="Оптимизация" />
+    <option name="LAST_COMMIT_MESSAGE" value="Оптимизация" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://D:/Python/yandex_practicum/project_10_v1_2.ipynb</url>
+          <line>310</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://D:/Python/yandex_practicum/project_10_v1_2.ipynb</url>
+          <line>359</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_class.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_class.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/yandex_practicum$Doctests_in_validation.coverage" NAME="Doctests in validation Coverage Results" MODIFIED="1680288109564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Program File/Anaconda/envs/practicum/Lib/site-packages/sklearn/utils" />
+    <SUITE FILE_PATH="coverage/yandex_practicum$test_class.coverage" NAME="test_class Coverage Results" MODIFIED="1680289626152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
