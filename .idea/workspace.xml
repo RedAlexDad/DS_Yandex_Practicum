@@ -4,15 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fde87169-2587-492f-ab6b-69bc7820d49d" name="Changes" comment="Оптимизация">
-      <change afterPath="$PROJECT_DIR$/errors/project_10_v1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errors/project_10_v1_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errors/project_10_v1_error.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/errors/project_10_v2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_10_v2_accept.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/yandex_practicum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yandex_practicum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_10_v1.ipynb" beforeDir="false" />
+    <list default="true" id="fde87169-2587-492f-ab6b-69bc7820d49d" name="Changes" comment="Добавление всех файлов и завершение проекта">
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/BERT for project 11-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/Example_002-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/NLP-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/classify_text_with_bert-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/cuMLNvidia-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/example_001-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/project_11_project_for_Wikishop_v1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/project_11_v1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/project_11_v2_error-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/text_classification-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/BERT for project 11.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/Example_002.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/NLP.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/best_grid_search_pipeline.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/classify_text_with_bert.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/cuMLNvidia.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/example_001.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/k_nearest_neighbor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/project_11_v1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/project_11_v2_error.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/text_classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/toxic_comments.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/toxic_comments_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workplace/toxic_comments_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors/project_10_v1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors/project_10_v1_2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors/project_10_v1_error.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors/project_10_v2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_10_v2_accept.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taxi.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_class.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +54,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="project_9_determining_the_cost_of_cars" />
+        <entry key="$PROJECT_DIR$" value="project_10_forecasting_taxi_orders" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,23 +67,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/yandex_practicum&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Git.Branch.Popup.ShowAllRemotes": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Python/yandex_practicum/workplace",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\yandex_practicum\workplace" />
       <recent name="D:\Python\yandex_practicum" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -80,7 +106,8 @@
       <workItem from="1680153411467" duration="402000" />
       <workItem from="1680199474477" duration="181000" />
       <workItem from="1680283170750" duration="6456000" />
-      <workItem from="1680538514879" duration="105000" />
+      <workItem from="1680538514879" duration="528000" />
+      <workItem from="1681409247049" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="Добавление несколько файлов">
       <created>1680122057410</created>
@@ -117,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680199649912</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавление всех файлов и завершение проекта">
+      <created>1680538652735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680538652735</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +173,8 @@
     <MESSAGE value="Добавление основных файлов" />
     <MESSAGE value="Добавление еще основных файлов" />
     <MESSAGE value="Оптимизация" />
-    <option name="LAST_COMMIT_MESSAGE" value="Оптимизация" />
+    <MESSAGE value="Добавление всех файлов и завершение проекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление всех файлов и завершение проекта" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -153,16 +188,6 @@
           <url>notebook://D:/Python/yandex_practicum/project_10_v1_2.ipynb</url>
           <line>359</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_class.py</url>
-          <line>114</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_class.py</url>
-          <line>118</line>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
