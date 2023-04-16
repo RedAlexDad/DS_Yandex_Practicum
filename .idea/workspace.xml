@@ -4,40 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fde87169-2587-492f-ab6b-69bc7820d49d" name="Changes" comment="Добавление всех файлов и завершение проекта">
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/BERT for project 11-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/Example_002-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/NLP-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/classify_text_with_bert-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/cuMLNvidia-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/example_001-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/project_11_project_for_Wikishop_v1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/project_11_v1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/project_11_v2_error-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/text_classification-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/BERT for project 11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/Example_002.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/NLP.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/best_grid_search_pipeline.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/classify_text_with_bert.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/cuMLNvidia.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/example_001.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/k_nearest_neighbor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/project_11_v1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/project_11_v2_error.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/text_classification.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/toxic_comments.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/toxic_comments_test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workplace/toxic_comments_train.csv" afterDir="false" />
+    <list default="true" id="fde87169-2587-492f-ab6b-69bc7820d49d" name="Changes" comment="Добавление несколько файлов для подготовки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/errors/project_10_v1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/errors/project_10_v1_2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/errors/project_10_v1_error.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/errors/project_10_v2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_10_v2_accept.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/taxi.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_class.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +75,7 @@
       <workItem from="1680199474477" duration="181000" />
       <workItem from="1680283170750" duration="6456000" />
       <workItem from="1680538514879" duration="528000" />
-      <workItem from="1681409247049" duration="127000" />
+      <workItem from="1681409247049" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="Добавление несколько файлов">
       <created>1680122057410</created>
@@ -151,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680538652735</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Добавление несколько файлов для подготовки">
+      <created>1681409546129</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681409546129</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +149,8 @@
     <MESSAGE value="Добавление еще основных файлов" />
     <MESSAGE value="Оптимизация" />
     <MESSAGE value="Добавление всех файлов и завершение проекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление всех файлов и завершение проекта" />
+    <MESSAGE value="Добавление несколько файлов для подготовки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление несколько файлов для подготовки" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
