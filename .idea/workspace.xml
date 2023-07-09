@@ -4,8 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fde87169-2587-492f-ab6b-69bc7820d49d" name="Changes" comment="Добавление несколько файлов с итоговым проектом">
+    <list default="true" id="fde87169-2587-492f-ab6b-69bc7820d49d" name="Changes" comment="Оптимизация">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/img_4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert-pytorch_with_comment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bert_pytorch_no_comment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors/project_11_project_for_Wikishop_v1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors/project_11_v1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors/project_11_v2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors/project_11_v2_error.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/errors/project_11_v3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_11_v3_accept.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project_11.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toxic_comments.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/toxic_comments.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/BERT for project 11-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/Example_002-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/NLP-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/classify_text_with_bert-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/cuMLNvidia-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/example_001-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/project_11_project_for_Wikishop_v1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/project_11_v1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/project_11_v2_error-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/.ipynb_checkpoints/text_classification-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/BERT for project 11.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/Example_002.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/NLP.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/best_grid_search_pipeline.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/classify_text_with_bert.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/cuMLNvidia.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/example_001.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/k_nearest_neighbor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/text_classification.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/toxic_comments_test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workplace/toxic_comments_train.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,31 +68,37 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NQSRzLKM5y0D8lCqynycFMk3nN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/yandex_practicum/workplace&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Git.Branch.Popup.ShowAllRemotes": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Python/yandex_practicum/workplace",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\yandex_practicum\workplace" />
       <recent name="D:\Python\yandex_practicum" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
+      <recent name="$PROJECT_DIR$/datasets" />
       <recent name="D:\Python\yandex_practicum\errors" />
       <recent name="D:\Python\yandex_practicum" />
     </key>
@@ -179,7 +222,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/yandex_practicum$Doctests_in_validation.coverage" NAME="Doctests in validation Coverage Results" MODIFIED="1680288109564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Program File/Anaconda/envs/practicum/Lib/site-packages/sklearn/utils" />
     <SUITE FILE_PATH="coverage/yandex_practicum$test_class.coverage" NAME="test_class Coverage Results" MODIFIED="1680289626152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yandex_practicum$Doctests_in_validation.coverage" NAME="Doctests in validation Coverage Results" MODIFIED="1680288109564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Program File/Anaconda/envs/practicum/Lib/site-packages/sklearn/utils" />
   </component>
 </project>
