@@ -44,3 +44,22 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23F0A30A.svg?style=for-the-badge&logo=XGBoost&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 -->
+
+##### ДИПЛОМ
+
+<table>
+    <tr>
+        <td>
+            <h6>Диплом RU</h6>
+            <a href="images/DiplomaRU.pdf">Кликните здесь</a>
+        </td>
+        <td>
+            <h6>Diploma EN</h6>
+            <a href="images/DiplomaEN.pdf">Click on here</a>
+        </td>
+    </tr>
+</table>
+
+<img src="images/DiplomaRU0.jpg" style='width:100%;'>
+<img src="images/DiplomaRU1.jpg" style='width:100%;'>
+
